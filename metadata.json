@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Efsaneler Günlüğü - D&D Yoldaşı",
+  "description": "D&D ve RYO grupları için karakter yönetimi, yapay zeka destekli hikaye anlatımı ve sesli/görüntülü sohbet araçları sunan kapsamlı bir masaüstü rol yapma oyun yardımcısı.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
